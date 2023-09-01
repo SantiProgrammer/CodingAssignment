@@ -10,6 +10,12 @@ To use this app locally, follow the instructions below:
 
 - Node.js and npm installed on your machine.
 
+### Clone the repository to your local machine.
+
+```bash
+git clone (https://github.com/SantiagoMorera/CodingAssignment)
+```
+
 ### Installation
 
 1. npm install
